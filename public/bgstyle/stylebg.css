@@ -1,0 +1,85 @@
+.banner {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/caracara.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bannerabout {
+    height: 70vh;
+    background: url('../logoumkn/bannerabout.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* .bannerindex {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/bgcloris.JPG');
+    background-size: cover;
+    background-position: center;
+  } */
+
+  .bannereve {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/reve.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bannermenu {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/menu.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bannergaler {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/galer.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bannerkontak {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/kontak.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bannerblog {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/blog.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  .bg-berita {
+    height: 64vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/News.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  .bg-faq {
+    height: 64vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../logoumkn/faq.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .ff{
+    color: #5577B4;
+    font-family: "Muli","Segoe UI","Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  .op{
+    opacity:40%;
+
+  }
+
+  .font2{
+    font-family: "Muli","Segoe UI","Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
